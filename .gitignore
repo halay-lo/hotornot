@@ -1,0 +1,54 @@
+### Laravel ###
+.env
+
+### Composer ###
+/vendor
+composer.phar
+composer.lock
+/vendor
+
+### Node ###
+/node_modules
+logs
+*.log
+npm-debug.log*
+*.pid
+*.seed
+.grunt
+.npm
+.node_repl_history
+
+### Bower ###
+bower_components
+.bower-cache
+.bower-registry
+.bower-tmp
+
+### Linux ###
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### PHPStorm ###
+*.iml
+.idea/
+*.ipr
+*.iws
